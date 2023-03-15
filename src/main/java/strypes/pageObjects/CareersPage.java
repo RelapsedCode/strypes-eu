@@ -6,7 +6,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import strypes.TestContext;
-import strypes.utilities.JavascriptActions;
 
 public class CareersPage {
 

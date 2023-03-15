@@ -3,14 +3,11 @@ package strypes.stepDefinitions;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 
-import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 import io.cucumber.java.en.Then;
 import lombok.extern.slf4j.Slf4j;
-import lombok.extern.slf4j.XSlf4j;
 import strypes.TestContext;
 import strypes.pageObjects.SearchResultsPage;
 

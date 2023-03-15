@@ -2,8 +2,6 @@ package strypes.stepDefinitions;
 
 import static org.junit.Assert.assertTrue;
 
-import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 import org.openqa.selenium.By;

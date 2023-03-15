@@ -1,13 +1,10 @@
 package strypes.pageObjects;
 
-import java.io.File;
-
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import strypes.TestContext;
-import strypes.utilities.JavascriptActions;
 
 public class ContactPage {
 	private TestContext testContext;
