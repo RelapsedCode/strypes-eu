@@ -1,0 +1,36 @@
+Ebony Moore
+Seattle, WA | (123) 456-7891 | emoore@email.com
+Summary
+&nbsp;
+Skilled and results-oriented Software Engineer with more than 15 years of experience working in a variety of environments with a breadth of programs and technologies.
+Education
+&nbsp;
+Green Valley State
+Aug '99-Dec '02
+Bachelor of Science in Computer Science
+Experience
+&nbsp;
+River Tech, Senior Software Engineer
+Jul '19 - Current
+Identify and solve software issues in C++ and SQL in Unix and Linux environments
+Integrate code changes, test code changes, and document code changes
+Develop automation scripts to test storage appliances in Python
+Develop base framework with Java, JSP, Struts, CSS, HTML, JavaScript, Oracle, and MS SQL Server
+Practice agile development methodologies and work with current networking technologies
+Tradelot, Software Tech Lead
+Aug '15 - Jul '19
+Developed Perl and PHP scripts to translate data between applications
+Wrote, modified, and debugged software for clients
+Created and deployed web pages with HTML, JSP, JavaScript, and CSS
+Wrote Python scripts to load data and parse XML documents
+Retail Ocean, Software Engineer
+Jan '13 - Aug '15
+Developed code to complete assigned project by deadline
+Used Hadoop to build a scalable distributed data solution
+Utilized Python on Django web framework with Git to develop various front-end and back-end modules
+Skills
+&nbsp;
+U.S. Dept. of Defence Top Secret Clearance
+Certified Scrum Master
+Cisco Certified Network Professional Routing and Switching
+Cisco Certified Network Professional Security
